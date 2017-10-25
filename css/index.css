@@ -1,0 +1,46 @@
+/*
+* @Author: luodianlei
+* @Date:   2017-06-19 16:46:18
+* @Last Modified by:   luodianlei
+* @Last Modified time: 2017-06-19 17:32:11
+*/
+
+/*logo 开始 */
+
+div.logo{
+  text-align: center;
+}
+
+/* logo 结束*/
+
+/* 百度导航 开始 */
+div.nav{
+  text-align: center;
+  word-spacing: 50px;
+}
+
+/* 百度导航结束 */
+
+/* 搜索开始 */
+div.search{
+  text-align: center;
+}
+
+div.search form .text{
+  width: 540px;
+  height: 34px;
+}
+
+div.search form .submit{
+  width:102px;
+  height:40px;
+  background-color: skyblue;
+}
+/* 搜索结束 */
+
+/* 底部开始 */
+
+div.foot{
+  text-align: center;
+}
+/* 底部结束 */
